@@ -2,7 +2,7 @@
 
 ### My name is Kat White! 
 
-I am pressently a Mod 2 student Front End student at [Turing School of Software and Design](https://github.com/turingschool).
+I am pressently a Mod 2 Front End student at [Turing School of Software and Design](https://github.com/turingschool).
 
 
 - 🔭 I’m currently working on understanding array prototype iterators
@@ -17,9 +17,8 @@ I am pressently a Mod 2 student Front End student at [Turing School of Software 
 <br>
 <br>
 
- 
-![Kat's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-atwhite&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-atwhite&layout=compact)](https://github.com/k-atwhite/github-readme-stats)
+ ![Kat's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-atwhite&show_icons=true)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-atwhite)](https://github.com/k-atwhite/github-readme-stats)
 
 
 <!-- 
@@ -30,3 +29,7 @@ I am pressently a Mod 2 student Front End student at [Turing School of Software 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-atwhite&layout=compact)](https://github.com/k-atwhite/github-readme-stats" />
 </a>
  -->
+ 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=k-atwhite&color=1f5936" />
+</p>
