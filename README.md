@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is Kat White, and I'm a developer and front-end software engineering student.! 
+### My name is Kat White, and I'm a developer and front-end software engineering student! 
 
 I am pressently a Mod 2 Front End student at [Turing School of Software and Design](https://github.com/turingschool). 
 
