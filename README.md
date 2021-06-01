@@ -49,6 +49,9 @@ I am pressently a Mod 2 Front End student at [Turing School of Software and Desi
     </tr>
 </table>
 
+<!-- ## Recent/Proudest Contributions to Open Source
+ -->
+
 ## Stats
  
  ![Kat's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-atwhite&show_icons=true)
