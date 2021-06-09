@@ -52,12 +52,12 @@ I am pressently a Mod 2 Front End student at [Turing School of Software and Desi
 <!-- ## Recent/Proudest Contributions to Open Source
  -->
 
-## Stats
+<!-- ## Stats
  
  ![Kat's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-atwhite&show_icons=true)
  
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-atwhite)](https://github.com/k-atwhite/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-atwhite)](https://github.com/k-atwhite/github-readme-stats) -->
 
 
 <!-- 
