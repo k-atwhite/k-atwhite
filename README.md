@@ -4,11 +4,13 @@
 
 I am pressently a Mod 2 Front End student at [Turing School of Software and Design](https://github.com/turingschool). 
 
-* 🌞 &nbsp; Kat White
+* 🌞 &nbsp; Kat White (she/her)
 * 🖇 &nbsp; [LinkedIn](https://www.linkedin.com/in/kat-white-96326063/)
 * 👨‍💻 &nbsp; Front-End Engineering Certification from Turing School of Software & Design (*anticipated completion:* **October 2021**)
 * 🎓 &nbsp; Bachelor of Arts in History from DePauw University
-<!-- * 📫 &nbsp; pmuellerleile@gmail.com -->
+* 🌱 I’m currently learning about... APIs!
+* 👯 I’m looking to collaborate on... non-profit mapping and GIS projects
+
 
 <!-- - 🔭 I’m currently working on... understanding array prototype iterators
 - 🌱 I’m currently learning about... APIs!
