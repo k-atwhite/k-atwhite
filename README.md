@@ -18,9 +18,9 @@ I am pressently a Mod 2 Front End student at [Turing School of Software and Desi
         <td>JavaScript</td>
         <td>HTML5</td>
         <td>CSS3</td>
-<!--         <td>Sass</td>
-        <td>React</td>
-        <td>Router</td> -->
+        <td>Sass</td>
+<!--         <td>React</td>
+        <td>Router</td> --> 
         <td>NPM</td>
         <td>Express</td>
 <!--         <td>Cypress</td> -->
@@ -31,9 +31,9 @@ I am pressently a Mod 2 Front End student at [Turing School of Software and Desi
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/jslogo.png" alt="javascript" width="50" height="auto" /></td>
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/html5.png" alt="HTML" width="50" height="auto" /></td>
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/css3.png" alt="CSS" width="50" height="auto" /></td>
-<!--         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/sass.png" alt="Sass" width="50" height="auto" /></td>
-        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/react.png" alt="react" width="50" height="auto" /></td>
-        <td><img src="https://user-images.githubusercontent.com/73092355/119361186-9d808b80-bc68-11eb-97ee-05bde2700716.png" alt="router" width="50" height="auto" /></td> -->
+        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/sass.png" alt="Sass" width="50" height="auto" /></td>
+<!--         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/react.png" alt="react" width="50" height="auto" /></td> -->
+<!--         <td><img src="https://user-images.githubusercontent.com/73092355/119361186-9d808b80-bc68-11eb-97ee-05bde2700716.png" alt="router" width="50" height="auto" /></td> --> 
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/npm.png" alt="NPM" width="50" height="auto" /></td>
 <!--         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/express.png" alt="Express" width="50" height="auto" /></td> -->
         <td><img src="https://user-images.githubusercontent.com/73092355/119361263-b5f0a600-bc68-11eb-9f41-8e10aa013e7a.png" alt="Cypress" width="50" height="auto" /></td>
@@ -42,26 +42,19 @@ I am pressently a Mod 2 Front End student at [Turing School of Software and Desi
     </tr>
 </table>
 
-<!-- ## Recent/Proudest Contributions to Open Source
- -->
+<!-- ## Recent/Proudest Contributions to Open Source -->
 
-<!-- ## Stats
- 
- ![Kat's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-atwhite&show_icons=true)
- 
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-atwhite)](https://github.com/k-atwhite/github-readme-stats) -->
+## Stats
 
-
-<!-- 
-<a href="https://github.com/k-atwhite/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=k-atwhite&show_icons=true&theme=onedark" />
+<a href="https://github.com/k-atwhite/k-atwhite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-atwhite&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/k-atwhite/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-atwhite&layout=compact)](https://github.com/k-atwhite/github-readme-stats" />
-</a>
- -->
- 
+<a href="https://github.com/k-atwhite/k-atwhite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=k-atwhite&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kat's GitHub Stats" />
+</a>  
+<br>
+<br>
+<br>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=k-atwhite&color=1f5936" />
 </p>
