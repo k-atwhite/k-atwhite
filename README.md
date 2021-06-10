@@ -11,15 +11,6 @@ I am pressently a Mod 2 Front End student at [Turing School of Software and Desi
 * 🌱 I’m currently learning about... APIs!
 * 👯 I’m looking to collaborate on... non-profit mapping and GIS projects
 
-
-<!-- - 🔭 I’m currently working on... understanding array prototype iterators
-- 🌱 I’m currently learning about... APIs!
-- 👯 I’m looking to collaborate on... non-profit mapping and GIS projects
-- 😄 Pronouns: She/Her -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ...
-<!-- - ⚡ Fun fact: 
- -->
  
  ## Technologies
  <table>
