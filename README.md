@@ -6,7 +6,8 @@ I am pressently a Mod 2 Front End student at [Turing School of Software and Desi
 
 * 🌞 &nbsp; Kat White (she/her)
 * 🖇 &nbsp; [LinkedIn](https://www.linkedin.com/in/kat-white-96326063/)
-* 👨‍💻 &nbsp; Front-End Engineering Certification from Turing School of Software & Design (*anticipated completion:* **October 2021**)
+* ✍🏼 &nbsp; [Medium - Where I write about learning](https://k-atwhite.medium.com/)
+* 👨‍💻 &nbsp; Front-End Engineering Certification (*anticipated completion:* **October 2021**)
 * 🎓 &nbsp; Bachelor of Arts in History from DePauw University
 * 🌱 I’m currently learning about... APIs!
 * 👯 I’m looking to collaborate on... non-profit mapping and GIS projects
