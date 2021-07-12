@@ -21,7 +21,7 @@ I am pressently a Mod 2 Front End student at [Turing School of Software and Desi
         <td>CSS3</td>
         <td>Sass</td>
         <td>React</td>
-<!--         <td>Router</td> -->  -->
+<!--         <td>Router</td> --> 
         <td>NPM</td>
 <!--         <td>Express</td> -->
         <td>Cypress</td> -->
