@@ -20,11 +20,11 @@ I am pressently a Mod 2 Front End student at [Turing School of Software and Desi
         <td>HTML5</td>
         <td>CSS3</td>
         <td>Sass</td>
-<!--         <td>React</td>
-        <td>Router</td> --> 
+        <td>React</td>
+<!--         <td>Router</td> -->  -->
         <td>NPM</td>
-        <td>Express</td>
-<!--         <td>Cypress</td> -->
+<!--         <td>Express</td> -->
+        <td>Cypress</td> -->
         <td>Mocha</td>
 <!--         <td>Heroku</td> -->
     </tr>
@@ -33,7 +33,7 @@ I am pressently a Mod 2 Front End student at [Turing School of Software and Desi
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/html5.png" alt="HTML" width="50" height="auto" /></td>
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/css3.png" alt="CSS" width="50" height="auto" /></td>
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/sass.png" alt="Sass" width="50" height="auto" /></td>
-<!--         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/react.png" alt="react" width="50" height="auto" /></td> -->
+        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/react.png" alt="react" width="50" height="auto" /></td>
 <!--         <td><img src="https://user-images.githubusercontent.com/73092355/119361186-9d808b80-bc68-11eb-97ee-05bde2700716.png" alt="router" width="50" height="auto" /></td> --> 
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/npm.png" alt="NPM" width="50" height="auto" /></td>
 <!--         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/express.png" alt="Express" width="50" height="auto" /></td> -->
