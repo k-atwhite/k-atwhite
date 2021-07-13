@@ -24,7 +24,7 @@ I am pressently a Mod 2 Front End student at [Turing School of Software and Desi
 <!--         <td>Router</td> --> 
         <td>NPM</td>
 <!--         <td>Express</td> -->
-        <td>Cypress</td> -->
+        <td>Cypress</td>
         <td>Mocha</td>
 <!--         <td>Heroku</td> -->
     </tr>
