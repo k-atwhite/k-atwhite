@@ -19,7 +19,7 @@ Hiya, my name is Kat White and I am presently a student at Turing School of Soft
 <br>
 <br>
 
-* 🖇 &nbsp; [LinkedIn](https://www.linkedin.com/in/kat-white-96326063/)
+* 🖇 &nbsp; [LinkedIn](www.linkedin.com/in/ka-white)
 * ✍🏼 &nbsp; [Medium - Where I write about learning](https://k-atwhite.medium.com/)
 * 👨‍💻 &nbsp; Front-End Engineering Certification (**October 2021**)
 * 🎓 &nbsp; Bachelor of Arts in History from DePauw University
