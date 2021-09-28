@@ -18,7 +18,7 @@
 </p>
 <br>
 <br>
-Hiya, my name is Kat White and I am presently a student at Turing School of Software and Design. Thank you for visiting my GH!
+Hiya, my name is Kat White. I'm a Front End Engineer with a passion for creating order from chaos and delivering effortless user interfaces.
 <br>
 <br>
 
